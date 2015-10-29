@@ -1,0 +1,9 @@
+[
+null,
+{"id":1,"battlerName":"Aria-SVB","characterIndex":1,"characterName":"WttS","classId":1,"equips":[1,5,0,2,4],"faceIndex":0,"faceName":"Aria-","traits":[{"code":62,"dataId":3,"value":1}],"initialLevel":3,"maxLevel":99,"name":"Aria","nickname":"the Spirited","note":"","profile":""},
+{"id":2,"battlerName":"Aiden-SVB","characterIndex":0,"characterName":"WttS","classId":2,"equips":[6,1,0,12,14],"faceIndex":0,"faceName":"Aiden-","traits":[{"code":62,"dataId":3,"value":1}],"initialLevel":4,"maxLevel":99,"name":"Aiden","nickname":"the Grumpy","note":"Race: Human","profile":""},
+{"id":3,"battlerName":"Package1_4","characterIndex":0,"characterName":"Nature","classId":3,"equips":[3,0,2,3,4],"faceIndex":0,"faceName":"Nature","traits":[{"code":62,"dataId":3,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Cavall","nickname":"the Loyal","note":"Species: Dog","profile":""},
+{"id":4,"battlerName":"Marcus-SVB","characterIndex":0,"characterName":"WttS3","classId":4,"equips":[4,0,2,3,4],"faceIndex":0,"faceName":"Marcus-","traits":[{"code":62,"dataId":3,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Marcus","nickname":"the Mad","note":"Race: Dren","profile":""},
+{"id":5,"battlerName":"Eden-","characterIndex":2,"characterName":"WttS","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Eden-","traits":[{"code":62,"dataId":3,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Eden","nickname":"the Last","note":"Race: Deut","profile":""},
+{"id":6,"battlerName":"Galahad-F2-SVB","characterIndex":6,"characterName":"WttS2","classId":6,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Galahad-F2","traits":[{"code":62,"dataId":3,"value":1}],"initialLevel":1,"maxLevel":99,"name":"GalahadF","nickname":"","note":"Race: Human","profile":""}
+]
